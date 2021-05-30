@@ -1,8 +1,13 @@
 <h2> Hi there 👋 </h2>
 
 <p>
-  <img src="./web-dev-purple.gif" width="400px" />
+  <img src="./mando-fly.gif" width="600px" />
 </p>
+
+---
+
+<p align="center"> 7RG </p>
+
 
 <!--
 **rajatkoo/rajatkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
