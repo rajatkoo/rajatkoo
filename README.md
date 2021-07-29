@@ -1,12 +1,12 @@
 <h2> Hi there 👋 </h2>
 
 <p>
-  <img src="./mando-fly.gif" width="100%" />
+  <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/source.gif" width="100%" />
 </p>
 
 ---
 
-<p align="center"> This is the way </p>
+<p align="center">7RG</p>
 
 
 <!--
