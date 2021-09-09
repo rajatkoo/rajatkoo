@@ -1,7 +1,7 @@
 <h2> Hi there 👋 </h2>
 
 <p>
-  <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/source.gif" width="100%" />
+  <img src="https://c.tenor.com/41a133JDHAAAAAAC/naruto-shippuden-gif-sage-mode.gif" width="100%" />
 </p>
 
 ---
