@@ -1,12 +1,12 @@
 <h2> Hi there 👋 </h2>
 
 <p>
-  <img src="https://c.tenor.com/41a133JDHAAAAAAC/naruto-shippuden-gif-sage-mode.gif" width="100%" />
+  <img src="https://c.tenor.com/p9oWlKK4b1UAAAAC/tesla-dancing.gif" width="100%" />
 </p>
 
 ---
 
-<p align="center">7RG</p>
+<p align="center"> 7RG </p>
 
 
 <!--
