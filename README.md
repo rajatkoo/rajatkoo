@@ -1,12 +1,11 @@
-<h2> Hi there 👋 </h2>
-
-<p>
-  <img src="https://c.tenor.com/p9oWlKK4b1UAAAAC/tesla-dancing.gif" width="100%" />
+<h2> Hey there! 👋 </h2>
+<p align="center">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=rajatkoo&theme=material-palenight&hide_border=true&background=0E1218" width = 700>
 </p>
 
 ---
 
-<p align="center"> 7RG </p>
+<p align="center"> <a href="https://www.linkedin.com/in/7rajatgupta/">LinkedIn</a> </p>
 
 
 <!--
