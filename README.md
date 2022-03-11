@@ -5,7 +5,7 @@
 
 ---
 
-<p align="center"> <a href="https://www.linkedin.com/in/7rajatgupta/">LinkedIn</a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/7rajatgupta/">LinkedIn</a> &#8226; <a href="https://github.com/7rajatgupta">Personal GitHub</a> </p>
 
 
 <!--
